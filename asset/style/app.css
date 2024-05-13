@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(#f7ff03 0%, #398fff 40%, #d32038 100%);
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profileimage{
+    width: 200px ;
+}
+.profile h2 {
+    color: white;
+    transform: translateY(10px);
+}
+
+.profile h4 {
+    color: white;
+    transform: translateY(10px);
+}
+.slide{
+    background-color: #fff;
+}
